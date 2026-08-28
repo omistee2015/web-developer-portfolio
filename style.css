@@ -974,3 +974,12 @@ footer .copyright {
     }
 
 }
+
+/* ---------- WORLDWIDE AVAILABILITY ---------- */
+
+.availability {
+    margin-top: 25px !important;
+    color: #1da858 !important;
+    font-size: 14px !important;
+    font-weight: 700;
+}
